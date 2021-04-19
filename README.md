@@ -23,6 +23,7 @@ Before this you con do:
 4) Put the remote repository URL
 - git remote add origin "remote repository URL"
 (whitout "" the url)
+(the url is like this https://github.com/CarlosLopezSoto/UseGit)
 
 4.1) See the remote repository URL
 - git remote -v
