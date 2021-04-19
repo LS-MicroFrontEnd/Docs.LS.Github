@@ -1,11 +1,11 @@
 # Use Git and Git Hub
-### Important "main" and "master" are names of defaults branch, after we use master bu now we use main like default branch
+### Important "main" and "master" are names of defaults branch, before we use master bu now we use main like default branch
 ### First yor downloand [Git](https://git-scm.com/downloads)
 # Sincronize when you create a repository
 
 First, create a new repository  [Create a new repository](https://docs.github.com/es/github/creating-cloning-and-archiving-repositories/creating-a-new-repository) in Git Hub 
 
-Before this you con do:
+After this you con do:
 
 
 1) Open the console, in the local repository folder and add .git 
