@@ -47,7 +47,7 @@ git pull origin "name brach" --allow-unrelated-histories
 ```
 git config --system core.longpaths true
 ```
-# Push yours commits in to remote repository
+# Push yours commits into remote repository
 1)Charge the files in to local storage
 ```
 git add .
