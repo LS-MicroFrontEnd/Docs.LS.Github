@@ -3,8 +3,7 @@
 ### First yor downloand [Git](https://git-scm.com/downloads)
 # Sincronize when you create a repository
 
-First, create a new repository in Git Hub like this tutorial
-[Create a new repository](https://docs.github.com/es/github/creating-cloning-and-archiving-repositories/creating-a-new-repository)
+First, create a new repository  [Create a new repository](https://docs.github.com/es/github/creating-cloning-and-archiving-repositories/creating-a-new-repository) in Git Hub 
 
 Before this you con do:
 
@@ -29,7 +28,7 @@ git checkout -b "name brach"
 ```
 - (whitout "" the url)
 - (when is the first branch, the name is main)
-More info:
+- More info:
 [Check Out tutorils](https://www.atlassian.com/es/git/tutorials/using-branches/git-checkout)
 
 5) Pull all files from the remote repository
@@ -40,8 +39,8 @@ git pull origin "name branch"
 ```
 git pull origin "name brach" --allow-unrelated-histories
 ```
-this is force to merge those repositories
-More info:
+- This is force to merge those repositories
+- More info:
 [Error when your merge](https://www.educative.io/edpresso/the-fatal-refusing-to-merge-unrelated-histories-git-error)
 
 7) If have the error "Name is too long", do this:
