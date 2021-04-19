@@ -1,5 +1,5 @@
 # Use Git and Git Hub
-### Important "main" and "master" are names of defaults branch, before we usees master but now we use main like default branch
+### Important "main" and "master" are names of defaults branch, before we used master but now we use main like default branch
 ### First yor downloand [Git](https://git-scm.com/downloads)
 # Sincronize when you create a repository
 
