@@ -5,7 +5,7 @@
 
 First, [Create a new repository](https://docs.github.com/es/github/creating-cloning-and-archiving-repositories/creating-a-new-repository) in Git Hub 
 
-After this you con do:
+After this, you can do:
 
 
 1) Open the console, in the local repository folder and add .git 
