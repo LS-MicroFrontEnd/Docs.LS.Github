@@ -23,7 +23,7 @@ git remote add origin "remote repository URL"
 ```
 git remote -v
 ```
-4)Create a branch 
+4) Create a branch 
 ```
 git checkout -b "name brach" 
 ```
@@ -36,7 +36,7 @@ More info:
 ```
 git pull origin "name branch"
 ```
-6)If you had a folther with files and pull a new repository with files returns error, for this you have to do this
+6) If you had a folther with files and pull a new repository with files returns error, for this you have to do this
 ```
 git pull origin "name brach" --allow-unrelated-histories
 ```
@@ -44,6 +44,10 @@ this is force to merge those repositories
 More info:
 [Error when your merge](https://www.educative.io/edpresso/the-fatal-refusing-to-merge-unrelated-histories-git-error)
 
+7) If have the error "Name is too long", do this:
+```
+git config --system core.longpaths true
+```
 # Push yours commits in to remote repository
 1)Charge the files in to local storage
 ```
