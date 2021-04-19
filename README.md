@@ -1,6 +1,6 @@
 # Use Git and Git Hub
 ### Important "main" and "master" are names of defaults branch, after we use master bu now we use main like default branch
-
+### First yor downloand git [Git](https://git-scm.com/downloads)
 # Sincronize when you create a repository
 
 First, create a new repository in Git Hub like this tutorial
