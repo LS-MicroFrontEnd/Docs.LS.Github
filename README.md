@@ -3,7 +3,7 @@
 ### First downloand [Git](https://git-scm.com/downloads)
 # Sincronize when you create a repository
 
-First, create a new repository  [Create a new repository](https://docs.github.com/es/github/creating-cloning-and-archiving-repositories/creating-a-new-repository) in Git Hub 
+First, [Create a new repository](https://docs.github.com/es/github/creating-cloning-and-archiving-repositories/creating-a-new-repository) in Git Hub 
 
 After this you con do:
 
