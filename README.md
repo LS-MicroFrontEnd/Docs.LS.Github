@@ -32,7 +32,7 @@ git checkout -b "name brach"
 More info:
 [Check Out tutorils](https://www.atlassian.com/es/git/tutorials/using-branches/git-checkout)
 
-5)Pull all files from the remote repository
+5) Pull all files from the remote repository
 ```
 git pull origin "name branch"
 ```
