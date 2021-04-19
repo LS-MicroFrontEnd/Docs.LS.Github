@@ -9,11 +9,11 @@ First, create a new repository in Git Hub like this tutorial
 Before this you con do:
 
 
-1) Open the console, in the local repository folder and put 
+1) Open the console, in the local repository folder and add .git 
 ```
 git init
 ```
-2) Put the remote repository URL
+2) Add the remote repository URL
 ```
 git remote add origin "remote repository URL"
 ```
@@ -27,7 +27,8 @@ git remote -v
 ```
 git checkout -b "name brach" 
 ```
-(when is the first branch, the name is main)
+- (whitout "" the url)
+- (when is the first branch, the name is main)
 More info:
 [Check Out tutorils](https://www.atlassian.com/es/git/tutorials/using-branches/git-checkout)
 
@@ -52,8 +53,8 @@ git add .
 ```
 git commit -m "First commit"
 ```
-(whith "" the comment)
-(on "" you put the comments of the commits)
+- (whith "" the comment)
+- (on "" you add the comments of the commits)
 
 3) Finish push the change in the remote repository
 ```
