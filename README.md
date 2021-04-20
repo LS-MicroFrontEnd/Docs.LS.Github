@@ -39,7 +39,7 @@ git pull origin "name branch"
 ```
 
 ### Same cases
-**If you did a pull when the local repository and the remote repository has diferents files**
+**If you did a pull when the local repository and the remote repository has diferents files return error **
 ```
 git pull origin "name brach" --allow-unrelated-histories
 ```
