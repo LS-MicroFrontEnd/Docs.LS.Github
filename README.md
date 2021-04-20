@@ -39,7 +39,7 @@ git pull origin "name branch"
 ```
 
 ### Same cases
-**If you had a folther with files and do a pull in new repository with files returns error, for this you have to do this**
+**If you did a pull when the local repository and the remote repository has diferents files**
 ```
 git pull origin "name brach" --allow-unrelated-histories
 ```
