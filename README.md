@@ -16,8 +16,8 @@ git init
 ```
 git remote add origin "remote repository URL"
 ```
-(whitout "" the url)
-(the url is like this https://github.com/CarlosLopezSoto/UseGit)
+- (whitout "" the url)
+- (the url is like this https://github.com/CarlosLopezSoto/UseGit)
 
 3) Check the remote repository URL
 ```
@@ -29,22 +29,26 @@ git checkout -b "name brach"
 ```
 - (whitout "" the name branch)
 - (when is the first branch, the name is main)
-- More info:
+
+More info:
 [Check Out tutorils](https://www.atlassian.com/es/git/tutorials/using-branches/git-checkout)
 
 5) Pull all files from the remote repository
 ```
 git pull origin "name branch"
 ```
-6) If you had a folther with files and pull a new repository with files returns error, for this you have to do this
+
+### Same cases
+**If you had a folther with files and do a pull in new repository with files returns error, for this you have to do this**
 ```
 git pull origin "name brach" --allow-unrelated-histories
 ```
 - This is force to merge those repositories
-- More info:
+
+More info:
 [Error when your merge](https://www.educative.io/edpresso/the-fatal-refusing-to-merge-unrelated-histories-git-error)
 
-7) If have the error "Name is too long", do this:
+**If have the error "Name is too long"**
 ```
 git config --system core.longpaths true
 ```
