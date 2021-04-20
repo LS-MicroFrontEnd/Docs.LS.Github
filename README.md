@@ -27,7 +27,7 @@ git remote -v
 ```
 git checkout -b "name brach" 
 ```
-- (whitout "" the url)
+- (whitout "" the name branch)
 - (when is the first branch, the name is main)
 - More info:
 [Check Out tutorils](https://www.atlassian.com/es/git/tutorials/using-branches/git-checkout)
