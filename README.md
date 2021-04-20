@@ -18,7 +18,8 @@ git remote add origin "remote repository URL"
 ```
 (whitout "" the url)
 (the url is like this https://github.com/CarlosLopezSoto/UseGit)
-3) See the remote repository URL
+
+3) Check the remote repository URL
 ```
 git remote -v
 ```
